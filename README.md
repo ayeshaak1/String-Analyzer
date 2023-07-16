@@ -22,7 +22,7 @@ To compile and run the program, ensure that you have the following installed on 
 Use the following command to compile the program:
 
 ```bash
-gcc -o poetryL2 main.c
+gcc -o poetryL2.c
 ```
 
 ## Usage
